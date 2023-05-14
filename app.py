@@ -17,7 +17,7 @@ JOBS = [
     { 'id' : "3"  ,
      'title' : "MERN "  , 
      "location" : "kathmandu nepal " , 
-     "salary" : "Rs 100000" 
+   
      
     },
     { 'id' : "4"  ,
